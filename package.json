@@ -1,0 +1,24 @@
+{
+
+    "name": "my-project",
+
+    "source": "index.html",
+
+    "scripts": {
+
+        "start": "parcel",
+
+        "build": "parcel build"
+
+    },
+
+    "devDependencies": {
+
+        "parcel": "^2.14.2",
+
+        "typescript": "^5.8.2"
+
+    }
+
+}
+
